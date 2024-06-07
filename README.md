@@ -20,7 +20,8 @@ Contact: Contact form and social media links.
 <p>Getting Started</p>
 To get a local copy up and running, follow these simple steps.
 
-Prerequisites
+<h2>Prerequisites</h2>
+
 Ensure you have the following installed:
 
 A web browser (e.g., Chrome, Firefox)
@@ -44,23 +45,27 @@ portfolio-website/
 ├── index.html
 Images: Contains the images used in the website.
 Styles.css: Contains the CSS styles for the website.
-index.html: The main HTML file for the website.
-Customization
-Fonts: The website uses the 'Poppins' font from Google Fonts. You can change the font by modifying the link in the <head> section of the index.html file.
-Icons: The website uses icons from Boxicons. You can add or replace icons by modifying the relevant <i> tags and classes.
+index.html: 
+<p>The main HTML file for the website.
+<h3>Customization</h3>
+Fonts:
+<p>The website uses the 'Poppins' font from Google Fonts. You can change the font by modifying the link in the <head> section of the index.
+<p>html file.
+Icons: 
+<p>The website uses icons from Boxicons. You can add or replace icons by modifying the relevant <i> tags and classes.
 Contributing
 Contributions are welcome! Please follow these steps to contribute:
 
-Fork the repository.
-Create a new branch (git checkout -b feature/your-feature-name).
-Commit your changes (git commit -m 'Add some feature').
-Push to the branch (git push origin feature/your-feature-name).
-Open a pull request.
-License
+<h3>Fork the repository.</h3>
+<p>Create a new branch (git checkout -b feature/your-feature-name).</p>
+<p>Commit your changes (git commit -m 'Add some feature').
+<p>Push to the branch (git push origin feature/your-feature-name).
+<p>Open a pull request.
+<h3>License</h3>
 This project is licensed under the MIT License.
 
-Contact
-Name: Santosh Kumar
-Email: santoshraj1174s@gmail.com
-GitHub: Santosh56kumar
-LinkedIn: Santosh Kumar
+<h3>Contact</h3>
+<p>Name: Santosh Kumar</p>
+<p>Email: santoshraj1174s@gmail.com</p>
+<p>GitHub: Santosh56kumar</p>
+<p>LinkedIn: Santosh Kumar</p>

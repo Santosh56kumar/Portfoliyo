@@ -30,11 +30,12 @@ Clone the repository:
 bash
 Copy code
 git clone https://github.com/yourusername/portfolio-website.git
-Open the index.html file in your web browser to view the website.
-Usage
+<p>Open the index.html file in your web browser to view the website.
+Usage</p>
 Modify the HTML and CSS files to personalize the website.
 Update the content in each section as per your requirements.
-Customize the styles in the Styles.css file.
+Customize the styles in the Styles.css file.</p>
+
 File Structure
 Copy code
 portfolio-website/
@@ -46,21 +47,21 @@ portfolio-website/
 Images: Contains the images used in the website.
 Styles.css: Contains the CSS styles for the website.
 index.html: 
-<p>The main HTML file for the website.
+<p>The main HTML file for the website.</p>
 <h3>Customization</h3>
 Fonts:
-<p>The website uses the 'Poppins' font from Google Fonts. You can change the font by modifying the link in the <head> section of the index.
-<p>html file.
+<p>The website uses the 'Poppins' font from Google Fonts. You can change the font by modifying the link in the <head> section of the index.</p>
+<p>html file.</p>
 Icons: 
 <p>The website uses icons from Boxicons. You can add or replace icons by modifying the relevant <i> tags and classes.
-Contributing
+Contributing</p>
 Contributions are welcome! Please follow these steps to contribute:
 
 <h3>Fork the repository.</h3>
 <p>Create a new branch (git checkout -b feature/your-feature-name).</p>
-<p>Commit your changes (git commit -m 'Add some feature').
-<p>Push to the branch (git push origin feature/your-feature-name).
-<p>Open a pull request.
+<p>Commit your changes (git commit -m 'Add some feature').</p>
+<p>Push to the branch (git push origin feature/your-feature-name).</p>
+<p>Open a pull request.</p>
 <h3>License</h3>
 This project is licensed under the MIT License.
 

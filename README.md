@@ -1,7 +1,5 @@
 # Portfoliyo
 
-
-<h1>Portfolio Website</h1>
 This repository contains the source code for a personal portfolio website. The website showcases information about me, my skills, services, and projects.
 
 <h2> Features</h2>
